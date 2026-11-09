@@ -1,117 +1,116 @@
-EYE3 channel catalogue, 2026-11-02T04:47:03Z
+EYE3 channel catalogue, 2026-11-09T13:22:13Z
 source: https://iptv-org.github.io/iptv/index.m3u + https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
-channels: 8014 (https: 6848)
+channels: 7928 (https: 6700)
 
 by category
-  News             699
-  General          2180
-  Entertainment    599
-  Movies           469
-  Series           333
-  Sports           248
-  Music            616
-  Kids             217
-  Documentary      149
-  Lifestyle        81
-  Culture          123
-  Comedy           127
-  Animation        131
-  Business         55
-  Education        112
-  Science          8
-  Religious        577
-  Travel           29
+  News             667
+  General          2245
+  Entertainment    582
+  Movies           450
+  Series           325
+  Sports           247
+  Music            600
+  Kids             214
+  Documentary      159
+  Lifestyle        78
+  Culture          117
+  Comedy           125
+  Animation        132
+  Business         56
+  Education        116
+  Science          5
+  Religious        540
+  Travel           32
   Cooking          49
   Outdoor          56
   Weather          14
-  Family           36
-  Classic          84
-  Legislative      88
+  Family           33
+  Classic          72
+  Legislative      95
   Public           2
-  Relax            6
-  Shop             57
+  Relax            5
+  Shop             56
   Auto             26
-  Other            843
+  Other            830
 
-checked 11296 streams, kept 8014. Why the others were dropped
-    725  not found (404, 410: link is dead)
-    694  no answer in time
-    651  refused / blocked (403, 451: often a country block from the US test server)
-    382  cannot connect (DNS / refused / reset)
-    230  invalid HTTPS certificate
-    178  answered, but not a video playlist
-     87  server error (5xx)
+checked 11328 streams, kept 7928. Why the others were dropped
+    749  not found (404, 410: link is dead)
+    735  no answer in time
+    575  cannot connect (DNS / refused / reset)
+    552  refused / blocked (403, 451: often a country block from the US test server)
+    229  invalid HTTPS certificate
+    171  answered, but not a video playlist
      82  not found (404, 410: link is dead) [at the variant step]
-     54  other HTTP answer
-     48  refused / blocked (403, 451: often a country block from the US test server) [at the segment step]
-     38  other problem
-     27  not found (404, 410: link is dead) [at the segment step]
-     17  playlist has no video segments
-     16  no answer in time [at the variant step]
-     10  no answer in time [at the segment step]
-      9  cannot connect (DNS / refused / reset) [at the variant step]
-      9  cannot connect (DNS / refused / reset) [at the segment step]
-      6  other problem [at the variant step]
-      5  server error (5xx) [at the segment step]
-      5  other HTTP answer [at the segment step]
+     65  server error (5xx)
+     58  refused / blocked (403, 451: often a country block from the US test server) [at the segment step]
+     49  other HTTP answer
+     34  other problem
+     25  not found (404, 410: link is dead) [at the segment step]
+     16  playlist has no video segments
+     15  no answer in time [at the variant step]
+     10  cannot connect (DNS / refused / reset) [at the variant step]
+      7  no answer in time [at the segment step]
+      6  other HTTP answer [at the segment step]
+      4  other problem [at the variant step]
+      4  server error (5xx) [at the variant step]
+      4  cannot connect (DNS / refused / reset) [at the segment step]
+      3  server error (5xx) [at the segment step]
       3  refused / blocked (403, 451: often a country block from the US test server) [at the variant step]
       3  other HTTP answer [at the variant step]
-      1  server error (5xx) [at the variant step]
-      1  other problem [at the segment step]
       1  video segment was empty
 
 countries with the most refused/blocked streams (likely geo-restricted)
-  US   99
-  IN   55
-  IT   45
+  US   84
+  IT   44
+  ES   37
+  IN   37
   RU   37
-  ES   31
-  TR   31
   KZ   25
-  MX   25
-  UK   25
   DE   22
-  BR   16
-  TH   15
+  UK   20
+  MX   19
+  BR   17
+  FR   15
+  NL   12
 
 by country (top 40)
-  US   1572
-  IN   647
-  IT   375
-  SE   370
-  DE   348
+  US   1510
+  IN   566
+  IT   384
+  SE   374
+  DE   343
   RU   288
-  DO   175
-  CL   169
-  ES   155
-  FR   149
-  ??   148
-  UK   145
+  CL   171
+  DO   169
+  PL   165
+  ES   151
+  ??   147
   BR   140
-  AR   134
-  PE   127
-  RO   126
-  PL   122
+  FR   140
+  UK   139
+  AR   132
+  RO   132
+  PE   126
   NL   119
-  TR   110
-  CA   107
-  MX   103
-  IR   101
-  CO   95
-  CN   89
-  HU   89
-  UA   87
-  ID   81
-  GR   80
-  CZ   65
-  KR   63
-  EC   55
-  VN   54
-  VE   53
-  IQ   51
-  CR   45
+  MX   107
+  TR   107
+  CA   105
+  HU   105
+  IR   95
+  CO   94
+  CN   86
+  GR   77
+  ID   76
+  UA   75
+  CZ   67
+  VN   63
+  KR   60
+  VE   57
+  PY   53
+  TH   50
+  IQ   49
+  CR   48
+  EC   48
+  HN   43
   SA   43
-  TH   43
-  PK   42
-  HN   41
-  PY   41
+  PK   40
